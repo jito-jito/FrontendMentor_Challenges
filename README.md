@@ -5,3 +5,4 @@ Some challenges are developed in codesandbox 🚀, you can see the code in the l
 
 ## List of challenges:
 1.- [NewsHomePage](https://csb-8fgkpd.netlify.app/)
+2.- [NFTCardComponent](https://csb-wccezc.netlify.app/)
